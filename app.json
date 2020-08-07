@@ -1,0 +1,14 @@
+{
+	"name": "pegrver",
+	"description": "Streaming ui.",
+	"repository":  "https://github.com/qefiugehojqk/y6ajv",
+	
+	"buildpacks" : [
+		{
+			"url" : "https://github.com/jakeorr/heroku-buildpack-nodejs-grunt-compass-bower-configurable"
+    },
+    {
+      "url" : "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    }
+	]
+}
