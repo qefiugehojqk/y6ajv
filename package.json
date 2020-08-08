@@ -1,5 +1,5 @@
 {
-  "name": "perver",
+  "name": "peerflix-server",
   "version": "0.5.1",
   "description": "Streaming with web ui.",
   "bin": {
